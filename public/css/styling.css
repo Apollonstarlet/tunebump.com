@@ -1,0 +1,25 @@
+.p-20{
+  padding: 0rem;
+  border: 0px;
+}
+.for-artists{
+  border-radius: 5px;
+  box-shadow: 1px 1px 4px 0px #a5a5a5;
+}
+#top-logo{
+  display: inline-block;
+  height: 40px;
+  font-family: Quentin;
+}
+.text-transparent{
+  color: #2563eb;
+}
+@font-face {
+  font-family: Quentin;
+  src: (fonts/QuentinPro.ttf);
+}
+.page-topbar{
+  display: block;
+  height: 60px;
+  border-bottom: 2px solid gray;
+}
